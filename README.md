@@ -1,7 +1,7 @@
 Super Store Sales Dashboard
 Overview:
 
-This repository contains two dashboards that provide comprehensive analysis of Superstore sales performance:
+This repository contains a dashboard that provide comprehensive analysis of Superstore sales performance:
 
 Super Store Sales Dashboard
 
